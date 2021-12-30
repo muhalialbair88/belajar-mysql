@@ -1,0 +1,14 @@
+DOCUMENTATION
+
+Function String : https://dev.mysql.com/doc/refman/8.0/en/string-functions.html
+Flow Control Functions : https://dev.mysql.com/doc/refman/8.0/en/flow-control-functions.html
+Aggregate Function Descriptions : https://dev.mysql.com/doc/refman/8.0/en/aggregate-functions.html
+GROUP BY Modifiers : https://dev.mysql.com/doc/refman/8.0/en/group-by-modifiers.html
+Index(Structure Data B-Tree) : https://dev.mysql.com/doc/refman/8.0/en/index-btree-hash.html
+Optimization Index : https://dev.mysql.com/doc/refman/8.0/en/optimization-indexes.html
+Full-Text Search : https://dev.mysql.com/doc/refman/8.0/en/fulltext-search.html
+Natural Language Full-Text Searches (Per Kata) https://dev.mysql.com/doc/refman/8.0/en/fulltext-natural-language.html
+Boolean Full-Text Searches(Mengandung Kata(+), Tidak Mengandung Kata(-)) : https://dev.mysql.com/doc/refman/8.0/en/fulltext-boolean.html
+Full-Text Searches with Query Expansion(pendekatan kata sd kalimat) : https://dev.mysql.com/doc/refman/8.0/en/fulltext-query-expansion.html
+Grant : https://dev.mysql.com/doc/refman/8.0/en/grant.html#grant-overview
+mysqldump — A Database Backup Program : https://dev.mysql.com/doc/refman/8.0/en/mysqldump.html
